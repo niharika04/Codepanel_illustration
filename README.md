@@ -12,11 +12,11 @@ I had to design an illustration to be placed on the left side to help understand
 
 #### Desktop
 
-<img src="assets/images/live_page_desktop" alt="desktop page">
+<img src="assets/images/live_page_desktop.jpg" alt="desktop page">
 
 #### Iphone X
 
-<img src="assets/images/live_page_iphone" alt="iphone page">
+<img src="assets/images/live_page_iphone.jpg" alt="iphone page">
 
 ### Technology Used:
 
