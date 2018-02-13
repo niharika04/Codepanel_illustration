@@ -1,3 +1,15 @@
 h1 {
 	font-size: 80px;
+
+}
+
+.col-md-6 img {
+	width: 100%;
+}
+
+@media screen and (max-width: 620px) {
+
+	h1 {
+		font-size: 40px;
+	}
 }
