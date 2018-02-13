@@ -20,8 +20,8 @@ I had to design an illustration to be placed on the left side to help understand
 
 ### Technology Used:
 
-HTML
-CSS
-Bootstrap
-Media Queries
+HTML,
+CSS,
+Bootstrap,
+Media-Queries,
 Photoshop
